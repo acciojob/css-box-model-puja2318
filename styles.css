@@ -2,11 +2,10 @@
 /* Your CSS Code here. */
 #eg{
 	width:300px;
-	background-color:light blue;
+	background-color:rgb(173, 216, 230)';
 	brorder:15px ;
-	border-color:solid blue color;
+	border-color:rgb(173, 216, 230)';
 	padding:50px;
 	margin:20px;
-	text-content:This is a demo of box model, try to replicate this box model in Html & Css and pass all the test cases.;
 	
 }
