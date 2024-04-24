@@ -3,8 +3,7 @@
 #eg{
 	width:300px;
 	background-color:rgb(173, 216, 230)';
-	brorder:15px ;
-	border-color:rgb(173, 216, 230)';
+	brorder:15px solid blue;
 	padding:50px;
 	margin:20px;
 	
